@@ -223,6 +223,7 @@
     else {
         NSString *operand = topOfStack; 
         //return operand;   
+        // teste
     }
     return @"Implement this in Homework #2";
 }
