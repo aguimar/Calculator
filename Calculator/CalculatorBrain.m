@@ -222,7 +222,7 @@
     // senao eh operando
     else {
         NSString *operand = topOfStack; 
-        return operand;   
+        //return operand;   
     }
     return @"Implement this in Homework #2";
 }
